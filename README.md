@@ -9,7 +9,7 @@
 - [x] Section Intro
 - [x] Project Overview
 - [x] Building the Header - Part 1
-- [ ] Building the Header - Part 2
+- [x] Building the Header - Part 2
 - [ ] Creating Cool CSS Animations
 - [ ] Building a Complex Animated Button - Part 1
 - [ ] Building a Complex Animated Button - Part 2

@@ -10,7 +10,7 @@
 - [x] Project Overview
 - [x] Building the Header - Part 1
 - [x] Building the Header - Part 2
-- [ ] Creating Cool CSS Animations
+- [x] Creating Cool CSS Animations
 - [ ] Building a Complex Animated Button - Part 1
 - [ ] Building a Complex Animated Button - Part 2
 #### 03 - How CSS Works: A Look Behind the Scenes

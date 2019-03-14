@@ -1,13 +1,80 @@
-# Course Material and FAQ for my Advanced CSS Course
+# Udemy - Advanced CSS Course
 
-This repo contains starter files and the finished project files for all the projects contained in the course.
-
-Plus, I made all the course slides available for download, to make it easier to follow along the conceptual videos.
-
-👇 ***Please read the following Frequently Asked Questions (FAQ) carefully before starting the course*** 👇
+### Course - [Link](https://www.udemy.com/advanced-css-and-sass/?siteID=c4ytgEGG5fA-BqYe7RrPdFDw3BPvlgbt_g&LSNPUBID=c4ytgEGG5fA)
+### Inside <-> Advanced CSS And Sass Take Your CSS To The Next Level!
+#### 01 - Welcome, Welcome, Welcome!
+- [x] Welcome to the Most Advanced CSS Course Ever!
+- [x] Setting up Our Tools
+#### 02 - Natours Project — Setup and First Steps (Part 1)
+- [x] Section Intro
+- [x] Project Overview
+- [x] Building the Header - Part 1
+- [ ] Building the Header - Part 2
+- [ ] Creating Cool CSS Animations
+- [ ] Building a Complex Animated Button - Part 1
+- [ ] Building a Complex Animated Button - Part 2
+#### 03 - How CSS Works: A Look Behind the Scenes
+- [ ] Section Intro
+- [ ] Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
+- [ ] How CSS Works Behind the Scenes: An Overview
+- [ ] How CSS is Parsed, Part 1: The Cascade and Specificity
+- [ ] Specificity in Practice
+- [ ] How CSS is Parsed, Part 2: Value Processing
+- [ ] How CSS is Parsed, Part 3: Inheritance
+- [ ] Converting px to rem: An Effective Workflow
+- [ ] How CSS Renders a Website: The Visual Formatting Model
+- [ ] CSS Architecture, Components and BEM
+- [ ] Implementing BEM in the Natours Project
+#### 04 - Introduction to Sass and NPM
+- [ ] Section Intro
+- [ ] What is Sass?
+- [ ] First Steps with Sass: Variables and Nesting
+- [ ] First Steps with Sass: Mixins, Extends and Functions
+- [ ] A Brief Introduction to the Command Line
+- [ ] NPM Packages: Let's Install Sass Locally
+- [ ] NPM Scripts: Let's Write and Compile Sass Locally
+- [ ] The Easiest Way of Automatically Reloading a Page on File Changes
+#### 05 - Natours Project — Using Advanced CSS and Sass (Part 2)
+- [ ] Section Intro
+- [ ] Converting Our CSS Code to Sass: Variables and Nesting
+- [ ] Implementing the 7- [ ] 1 CSS Architecture with Sass
+- [ ] Review: Basic Principles of Responsive Design and Layout Types
+- [ ] Building a Custom Grid with Floats
+- [ ] Building the About Section - Part 1
+- [ ] Building the About Section - Part 2
+- [ ] Building the About Section - Part 3
+- [ ] Building the Features Section
+- [ ] Building the Tours Section - Part 1
+- [ ] Building the Tours Section - Part 2
+- [ ] Building the Tours Section - Part 3
+- [ ] Building the Stories Section - Part 1
+- [ ] Building the Stories Section - Part 2
+- [ ] Building the Stories Section - Part 3
+- [ ] Building the Booking Section - Part 1
+- [ ] Building the Booking Section - Part 2
+- [ ] Building the Booking Section - Part 3
+- [ ] Building the Footer
+- [ ] Building the Navigation - Part 1
+- [ ] Building the Navigation - Part 2
+- [ ] Building the Navigation - Part 3
+- [ ] Building a Pure CSS Popup - Part 1
+- [ ] Building a Pure CSS Popup - Part 2
+#### 06 - Natours Project — Advanced Responsive Design (Part 3)
+- [ ] Section Intro
+- [ ] Mobile- [ ] First vs Desktop- First and Breakpoints
+- [ ] Let's Use the Power of Sass Mixins to Write Media Queries
+- [ ] Writing Media Queries - Base, Typography and Layout
+- [ ] Writing Media Queries - Layout, About and Features Sections
+- [ ] Writing Media Queries - Tours, Stories and Booking Sections
+- [ ] An Overview of Responsive Images
+- [ ] Responsive Images in HTML - Art Direction and Density Switching
+- [ ] Responsive Images in HTML - Density and Resolution Switching
+- [ ] Responsive Images in CSS
+- [ ] Testing for Browser Support with @supports
+- [ ] Setting up a Simple Build Process with NPM Scripts
+- [ ] Wrapping up the Natours Project: Final Considerations
 
 ## FAQ
-
 ### Q1: How do I download the files?
 
 **A:** If you're new to GitHub and just want to download the complete package, hit the green button saying "Clone or download", choose the "Download ZIP" option, and you're good to go.

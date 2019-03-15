@@ -11,8 +11,8 @@
 - [x] Building the Header - Part 1
 - [x] Building the Header - Part 2
 - [x] Creating Cool CSS Animations
-- [ ] Building a Complex Animated Button - Part 1
-- [ ] Building a Complex Animated Button - Part 2
+- [x] Building a Complex Animated Button - Part 1
+- [x] Building a Complex Animated Button - Part 2
 #### 03 - How CSS Works: A Look Behind the Scenes
 - [ ] Section Intro
 - [ ] Three Pillars of Writing Good HTML and CSS (Never Forget Them!)

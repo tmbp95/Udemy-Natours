@@ -3,76 +3,76 @@
 ### Course - [Link](https://www.udemy.com/advanced-css-and-sass/?siteID=c4ytgEGG5fA-BqYe7RrPdFDw3BPvlgbt_g&LSNPUBID=c4ytgEGG5fA)
 ### Inside <-> Advanced CSS And Sass Take Your CSS To The Next Level!
 #### 01 - Welcome, Welcome, Welcome!
-- [x] Welcome to the Most Advanced CSS Course Ever!
-- [x] Setting up Our Tools
+- [x] 001 Welcome to the Most Advanced CSS Course Ever!
+- [x] 003 Setting up Our Tools
 #### 02 - Natours Project — Setup and First Steps (Part 1)
-- [x] Section Intro
-- [x] Project Overview
-- [x] Building the Header - Part 1
-- [x] Building the Header - Part 2
-- [x] Creating Cool CSS Animations
-- [x] Building a Complex Animated Button - Part 1
-- [x] Building a Complex Animated Button - Part 2
+- [x] 004 Section Intro
+- [x] 005 Project Overview
+- [x] 006 Building the Header - Part 1
+- [x] 007 Building the Header - Part 2
+- [x] 008 Creating Cool CSS Animations
+- [x] 009 Building a Complex Animated Button - Part 1
+- [x] 010 Building a Complex Animated Button - Part 2
 #### 03 - How CSS Works: A Look Behind the Scenes
-- [ ] Section Intro
-- [ ] Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
-- [ ] How CSS Works Behind the Scenes: An Overview
-- [ ] How CSS is Parsed, Part 1: The Cascade and Specificity
-- [ ] Specificity in Practice
-- [ ] How CSS is Parsed, Part 2: Value Processing
-- [ ] How CSS is Parsed, Part 3: Inheritance
-- [ ] Converting px to rem: An Effective Workflow
-- [ ] How CSS Renders a Website: The Visual Formatting Model
-- [ ] CSS Architecture, Components and BEM
-- [ ] Implementing BEM in the Natours Project
+- [x] 011 Section Intro
+- [x] 012 Three Pillars of Writing Good HTML and CSS (Never Forget Them!)
+- [x] 013 How CSS Works Behind the Scenes: An Overview
+- [x] 014 How CSS is Parsed, Part 1: The Cascade and  Specificity
+- [x] 015 Specificity in Practice
+- [x] 016 How CSS is Parsed, Part 2: Value Processing
+- [x] 017 How CSS is Parsed, Part 3: Inheritance
+- [x] 018 Converting px to rem: An Effective Workflow
+- [x] 019 How CSS Renders a Website: The Visual Formatting Model
+- [x] 020 CSS Architecture, Components and BEM
+- [x] 021 Implementing BEM in the Natours Project
 #### 04 - Introduction to Sass and NPM
-- [ ] Section Intro
-- [ ] What is Sass?
-- [ ] First Steps with Sass: Variables and Nesting
-- [ ] First Steps with Sass: Mixins, Extends and Functions
-- [ ] A Brief Introduction to the Command Line
-- [ ] NPM Packages: Let's Install Sass Locally
-- [ ] NPM Scripts: Let's Write and Compile Sass Locally
-- [ ] The Easiest Way of Automatically Reloading a Page on File Changes
+- [ ] 022 Section Intro
+- [ ] 023 What is Sass?
+- [ ] 024 First Steps with Sass: Variables and Nesting
+- [ ] 025 First Steps with Sass: Mixins, Extends and Functions
+- [ ] 026 A Brief Introduction to the Command Line
+- [ ] 027 NPM Packages: Let's Install Sass Locally
+- [ ] 028 NPM Scripts: Let's Write and Compile Sass Locally
+- [ ] 029 The Easiest Way of Automatically Reloading a Page on File Changes
 #### 05 - Natours Project — Using Advanced CSS and Sass (Part 2)
-- [ ] Section Intro
-- [ ] Converting Our CSS Code to Sass: Variables and Nesting
-- [ ] Implementing the 7- [ ] 1 CSS Architecture with Sass
-- [ ] Review: Basic Principles of Responsive Design and Layout Types
-- [ ] Building a Custom Grid with Floats
-- [ ] Building the About Section - Part 1
-- [ ] Building the About Section - Part 2
-- [ ] Building the About Section - Part 3
-- [ ] Building the Features Section
-- [ ] Building the Tours Section - Part 1
-- [ ] Building the Tours Section - Part 2
-- [ ] Building the Tours Section - Part 3
-- [ ] Building the Stories Section - Part 1
-- [ ] Building the Stories Section - Part 2
-- [ ] Building the Stories Section - Part 3
-- [ ] Building the Booking Section - Part 1
-- [ ] Building the Booking Section - Part 2
-- [ ] Building the Booking Section - Part 3
-- [ ] Building the Footer
-- [ ] Building the Navigation - Part 1
-- [ ] Building the Navigation - Part 2
-- [ ] Building the Navigation - Part 3
-- [ ] Building a Pure CSS Popup - Part 1
-- [ ] Building a Pure CSS Popup - Part 2
+- [ ] 030 Section Intro
+- [ ] 031 Converting Our CSS Code to Sass: Variables and Nesting
+- [ ] 032 Implementing the 7- [ ] 1 CSS Architecture with Sass
+- [ ] 033 Review: Basic Principles of Responsive Design and Layout Types
+- [ ] 034 Building a Custom Grid with Floats
+- [ ] 035 Building the About Section - Part 1
+- [ ] 036 Building the About Section - Part 2
+- [ ] 037 Building the About Section - Part 3
+- [ ] 038 Building the Features Section
+- [ ] 039 Building the Tours Section - Part 1
+- [ ] 040 Building the Tours Section - Part 2
+- [ ] 041 Building the Tours Section - Part 3
+- [ ] 042 Building the Stories Section - Part 1
+- [ ] 043 Building the Stories Section - Part 2
+- [ ] 044 Building the Stories Section - Part 3
+- [ ] 045 Building the Booking Section - Part 1
+- [ ] 046 Building the Booking Section - Part 2
+- [ ] 047 Building the Booking Section - Part 3
+- [ ] 048 Building the Footer
+- [ ] 049 Building the Navigation - Part 1
+- [ ] 050 Building the Navigation - Part 2
+- [ ] 051 Building the Navigation - Part 3
+- [ ] 052 Building a Pure CSS Popup - Part 1
+- [ ] 053 Building a Pure CSS Popup - Part 2
 #### 06 - Natours Project — Advanced Responsive Design (Part 3)
-- [ ] Section Intro
-- [ ] Mobile- [ ] First vs Desktop- First and Breakpoints
-- [ ] Let's Use the Power of Sass Mixins to Write Media Queries
-- [ ] Writing Media Queries - Base, Typography and Layout
-- [ ] Writing Media Queries - Layout, About and Features Sections
-- [ ] Writing Media Queries - Tours, Stories and Booking Sections
-- [ ] An Overview of Responsive Images
-- [ ] Responsive Images in HTML - Art Direction and Density Switching
-- [ ] Responsive Images in HTML - Density and Resolution Switching
-- [ ] Responsive Images in CSS
-- [ ] Testing for Browser Support with @supports
-- [ ] Setting up a Simple Build Process with NPM Scripts
-- [ ] Wrapping up the Natours Project: Final Considerations
+- [ ] 054 Section Intro
+- [ ] 055 Mobile- [ ] First vs Desktop- First and Breakpoints
+- [ ] 056 Let's Use the Power of Sass Mixins to Write Media Queries
+- [ ] 057 Writing Media Queries - Base, Typography and Layout
+- [ ] 058 Writing Media Queries - Layout, About and Features Sections
+- [ ] 059 Writing Media Queries - Tours, Stories and Booking Sections
+- [ ] 060 An Overview of Responsive Images
+- [ ] 061 Responsive Images in HTML - Art Direction and Density Switching
+- [ ] 062 Responsive Images in HTML - Density and Resolution Switching
+- [ ] 063 Responsive Images in CSS
+- [ ] 064 Testing for Browser Support with @supports
+- [ ] 065 Setting up a Simple Build Process with NPM Scripts
+- [ ] 066 Wrapping up the Natours Project: Final Considerations
 
 ## FAQ
 ### Q1: How do I download the files?

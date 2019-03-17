@@ -32,8 +32,8 @@
 - [x] 025 First Steps with Sass: Mixins, Extends and Functions
 - [x] 026 A Brief Introduction to the Command Line
 - [x] 027 NPM Packages: Let's Install Sass Locally
-- [ ] 028 NPM Scripts: Let's Write and Compile Sass Locally
-- [ ] 029 The Easiest Way of Automatically Reloading a Page on File Changes
+- [x] 028 NPM Scripts: Let's Write and Compile Sass Locally
+- [x] 029 The Easiest Way of Automatically Reloading a Page on File Changes
 #### 05 - Natours Project — Using Advanced CSS and Sass (Part 2)
 - [ ] 030 Section Intro
 - [ ] 031 Converting Our CSS Code to Sass: Variables and Nesting

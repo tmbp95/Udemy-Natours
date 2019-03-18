@@ -38,11 +38,11 @@
 - [x] 030 Section Intro
 - [x] 031 Converting Our CSS Code to Sass: Variables and Nesting
 - [x] 032 Implementing the 7- [ ] 1 CSS Architecture with Sass
-- [ ] 033 Review: Basic Principles of Responsive Design and Layout Types
-- [ ] 034 Building a Custom Grid with Floats
-- [ ] 035 Building the About Section - Part 1
-- [ ] 036 Building the About Section - Part 2
-- [ ] 037 Building the About Section - Part 3
+- [x] 033 Review: Basic Principles of Responsive Design and Layout Types
+- [x] 034 Building a Custom Grid with Floats
+- [x] 035 Building the About Section - Part 1
+- [x] 036 Building the About Section - Part 2
+- [x] 037 Building the About Section - Part 3
 - [ ] 038 Building the Features Section
 - [ ] 039 Building the Tours Section - Part 1
 - [ ] 040 Building the Tours Section - Part 2

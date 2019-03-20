@@ -6,8 +6,19 @@ $color-primary-dark: #28b485;
 $color-grey-light-1: #f7f7f7;
 $color-grey-dark: #777777;
 
+$color-secondary-light: #ffb900;
+$color-secondary-dark: #ff7730;
+
+$color-tertiary-light: #2998ff;
+$color-tertiary-dark: #5643fa;
+
 $color-white: #ffffff;
 $color-black: #000000;
+
+$color-shadow-low: rgba($color-black, 0.15);
+$color-shadow-medium: rgba($color-black, .2);
+$color-shadow-high: rgba($color-black, 0.4);
+$color-shadow-very-high: rgba($color-black, 0.5);
 
 // FONT
 $default-font-size: 1.6rem;

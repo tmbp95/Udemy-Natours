@@ -44,7 +44,7 @@
 - [x] 036 Building the About Section - Part 2
 - [x] 037 Building the About Section - Part 3
 - [x] 038 Building the Features Section
-- [ ] 039 Building the Tours Section - Part 1
+- [x] 039 Building the Tours Section - Part 1
 - [ ] 040 Building the Tours Section - Part 2
 - [ ] 041 Building the Tours Section - Part 3
 - [ ] 042 Building the Stories Section - Part 1

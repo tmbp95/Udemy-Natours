@@ -50,7 +50,7 @@
 - [x] 042 Building the Stories Section - Part 1
 - [x] 043 Building the Stories Section - Part 2
 - [x] 044 Building the Stories Section - Part 3
-- [ ] 045 Building the Booking Section - Part 1
+- [x] 045 Building the Booking Section - Part 1
 - [ ] 046 Building the Booking Section - Part 2
 - [ ] 047 Building the Booking Section - Part 3
 - [ ] 048 Building the Footer

@@ -47,9 +47,9 @@
 - [x] 039 Building the Tours Section - Part 1
 - [x] 040 Building the Tours Section - Part 2
 - [x] 041 Building the Tours Section - Part 3
-- [ ] 042 Building the Stories Section - Part 1
-- [ ] 043 Building the Stories Section - Part 2
-- [ ] 044 Building the Stories Section - Part 3
+- [x] 042 Building the Stories Section - Part 1
+- [x] 043 Building the Stories Section - Part 2
+- [x] 044 Building the Stories Section - Part 3
 - [ ] 045 Building the Booking Section - Part 1
 - [ ] 046 Building the Booking Section - Part 2
 - [ ] 047 Building the Booking Section - Part 3

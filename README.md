@@ -53,7 +53,7 @@
 - [x] 045 Building the Booking Section - Part 1
 - [x] 046 Building the Booking Section - Part 2
 - [x] 047 Building the Booking Section - Part 3
-- [ ] 048 Building the Footer
+- [x] 048 Building the Footer
 - [ ] 049 Building the Navigation - Part 1
 - [ ] 050 Building the Navigation - Part 2
 - [ ] 051 Building the Navigation - Part 3

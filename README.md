@@ -54,9 +54,9 @@
 - [x] 046 Building the Booking Section - Part 2
 - [x] 047 Building the Booking Section - Part 3
 - [x] 048 Building the Footer
-- [ ] 049 Building the Navigation - Part 1
-- [ ] 050 Building the Navigation - Part 2
-- [ ] 051 Building the Navigation - Part 3
+- [x] 049 Building the Navigation - Part 1
+- [x] 050 Building the Navigation - Part 2
+- [x] 051 Building the Navigation - Part 3
 - [ ] 052 Building a Pure CSS Popup - Part 1
 - [ ] 053 Building a Pure CSS Popup - Part 2
 #### 06 - Natours Project — Advanced Responsive Design (Part 3)

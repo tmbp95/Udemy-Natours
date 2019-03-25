@@ -57,8 +57,8 @@
 - [x] 049 Building the Navigation - Part 1
 - [x] 050 Building the Navigation - Part 2
 - [x] 051 Building the Navigation - Part 3
-- [ ] 052 Building a Pure CSS Popup - Part 1
-- [ ] 053 Building a Pure CSS Popup - Part 2
+- [x] 052 Building a Pure CSS Popup - Part 1
+- [x] 053 Building a Pure CSS Popup - Part 2
 #### 06 - Natours Project — Advanced Responsive Design (Part 3)
 - [ ] 054 Section Intro
 - [ ] 055 Mobile- [ ] First vs Desktop- First and Breakpoints

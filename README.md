@@ -60,10 +60,10 @@
 - [x] 052 Building a Pure CSS Popup - Part 1
 - [x] 053 Building a Pure CSS Popup - Part 2
 #### 06 - Natours Project — Advanced Responsive Design (Part 3)
-- [ ] 054 Section Intro
-- [ ] 055 Mobile- [ ] First vs Desktop- First and Breakpoints
-- [ ] 056 Let's Use the Power of Sass Mixins to Write Media Queries
-- [ ] 057 Writing Media Queries - Base, Typography and Layout
+- [x] 054 Section Intro
+- [x] 055 Mobile-First vs Desktop- First and Breakpoints
+- [x] 056 Let's Use the Power of Sass Mixins to Write Media Queries
+- [x] 057 Writing Media Queries - Base, Typography and Layout
 - [ ] 058 Writing Media Queries - Layout, About and Features Sections
 - [ ] 059 Writing Media Queries - Tours, Stories and Booking Sections
 - [ ] 060 An Overview of Responsive Images

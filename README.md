@@ -64,8 +64,8 @@
 - [x] 055 Mobile-First vs Desktop- First and Breakpoints
 - [x] 056 Let's Use the Power of Sass Mixins to Write Media Queries
 - [x] 057 Writing Media Queries - Base, Typography and Layout
-- [ ] 058 Writing Media Queries - Layout, About and Features Sections
-- [ ] 059 Writing Media Queries - Tours, Stories and Booking Sections
+- [x] 058 Writing Media Queries - Layout, About and Features Sections
+- [x] 059 Writing Media Queries - Tours, Stories and Booking Sections
 - [ ] 060 An Overview of Responsive Images
 - [ ] 061 Responsive Images in HTML - Art Direction and Density Switching
 - [ ] 062 Responsive Images in HTML - Density and Resolution Switching

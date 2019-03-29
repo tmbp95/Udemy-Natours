@@ -66,10 +66,10 @@
 - [x] 057 Writing Media Queries - Base, Typography and Layout
 - [x] 058 Writing Media Queries - Layout, About and Features Sections
 - [x] 059 Writing Media Queries - Tours, Stories and Booking Sections
-- [ ] 060 An Overview of Responsive Images
-- [ ] 061 Responsive Images in HTML - Art Direction and Density Switching
-- [ ] 062 Responsive Images in HTML - Density and Resolution Switching
-- [ ] 063 Responsive Images in CSS
+- [x] 060 An Overview of Responsive Images
+- [x] 061 Responsive Images in HTML - Art Direction and Density Switching
+- [x] 062 Responsive Images in HTML - Density and Resolution Switching
+- [x] 063 Responsive Images in CSS
 - [ ] 064 Testing for Browser Support with @supports
 - [ ] 065 Setting up a Simple Build Process with NPM Scripts
 - [ ] 066 Wrapping up the Natours Project: Final Considerations

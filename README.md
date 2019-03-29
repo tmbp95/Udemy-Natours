@@ -70,9 +70,9 @@
 - [x] 061 Responsive Images in HTML - Art Direction and Density Switching
 - [x] 062 Responsive Images in HTML - Density and Resolution Switching
 - [x] 063 Responsive Images in CSS
-- [ ] 064 Testing for Browser Support with @supports
-- [ ] 065 Setting up a Simple Build Process with NPM Scripts
-- [ ] 066 Wrapping up the Natours Project: Final Considerations
+- [x] 064 Testing for Browser Support with @supports
+- [x] 065 Setting up a Simple Build Process with NPM Scripts
+- [x] 066 Wrapping up the Natours Project: Final Considerations
 
 ## FAQ
 ### Q1: How do I download the files?
